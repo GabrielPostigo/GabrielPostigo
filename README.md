@@ -36,7 +36,7 @@ Apasionado por la tecnología, el aprendizaje continuo y la resolución de probl
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </p>
 
-
+<!--
 ---
 
 ## 📂 Proyectos destacados
@@ -49,6 +49,8 @@ Visualización y análisis de datos geoespaciales utilizando Python y biblioteca
 
 ### 📊 [Dashboard de Datos](https://github.com/gabrielpostigo/dashboard-datos)
 Creación de un dashboard interactivo para la visualización de métricas clave en tiempo real.
+
+-->
 
 ---
 
