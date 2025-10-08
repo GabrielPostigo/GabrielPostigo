@@ -1,8 +1,8 @@
 # 👋 ¡Hola! Soy Gabriel Postigo Rando
 
-¡Bienvenido a mi perfil de GitHub! 
+¡Bienvenid@ a mi perfil de GitHub! 
 
-Soy Técnico Superior en Desarrollo de Aplicaciones Multiplataforma, con especialización en Inteligencia Artificial y Big Data. 
+Poseo una formación de Ciclo Superior de Fomración Profesional en Desarrollo de Aplicaciones Multiplataforma, con especialización en Ciencia de Datos. 
 
 Apasionado por la tecnología, el aprendizaje continuo y la resolución de problemas complejos mediante soluciones innovadoras.
 
@@ -17,6 +17,7 @@ Apasionado por la tecnología, el aprendizaje continuo y la resolución de probl
 - 🏆 Logros recientes:
   - Completé el curso de *Intermediate Machine Learning* en Kaggle
   - Finalicé el curso de *Geospatial Analysis* en Kaggle
+  - Superar la Piscina de 42 Málaga
 - 📍 Ubicación: Málaga, Andalucía, España
 
 ---
