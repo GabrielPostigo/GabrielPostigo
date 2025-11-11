@@ -12,6 +12,7 @@ Apasionado por la tecnología, el aprendizaje continuo y la resolución de probl
   - Técnico Superior en Desarrollo de Aplicaciones Multiplataforma
   - Máster FP sobre Desarrollo de Inteligencia Artificial y BigData
   - Piscina 42 de Septiembre (2025)
+  - Cursus 42 Málaga (comenzado el 10 de Nov de 2025)
  
 - 🤖 Especialización: Inteligencia Artificial y Big Data
   
