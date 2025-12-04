@@ -16,7 +16,7 @@ Apasionado por la tecnología, el aprendizaje continuo y la resolución de probl
  
 - 🤖 Especialización: Inteligencia Artificial y Big Data
   
-- 🧠 Intereses: Machine Learning, Análisis Geoespacial, Ciencia de Datos, Análisis de Datos
+- 🧠 Intereses: Machine Learning, Ciencia de Datos, Análisis de Datos
   
 - 🌱 Actualmente aprendiendo: Todo aquello que pueda echarle mano con tal de seguir mejorando
   
@@ -44,22 +44,6 @@ Apasionado por la tecnología, el aprendizaje continuo y la resolución de probl
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </p>
 
-<!--
----
-
-## 📂 Proyectos destacados
-
-### 🧠 [Proyecto de Machine Learning](https://github.com/gabrielpostigo/proyecto-ml)
-Implementación de modelos de clasificación para la predicción de [descripción breve del proyecto].
-
-### 🌍 [Análisis Geoespacial](https://github.com/gabrielpostigo/analisis-geoespacial)
-Visualización y análisis de datos geoespaciales utilizando Python y bibliotecas especializadas.
-
-### 📊 [Dashboard de Datos](https://github.com/gabrielpostigo/dashboard-datos)
-Creación de un dashboard interactivo para la visualización de métricas clave en tiempo real.
-
--->
-
 ---
 
 ## 📊 Estadísticas de GitHub
@@ -69,7 +53,6 @@ Creación de un dashboard interactivo para la visualización de métricas clave 
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielpostigo&theme=tokyonight" alt="GitHub Streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpostigo&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
